@@ -1,0 +1,33 @@
+{
+  "cash": 65344.899999999994,
+  "holdings": {
+    "RELIANCE.NS": {
+      "shares": 14,
+      "avg_price": 1389.4
+    },
+    "SBIN.NS": {
+      "shares": 13,
+      "avg_price": 1169.5
+    }
+  },
+  "history": [
+    {
+      "date": "2026-03-05 16:05",
+      "action": "BUY",
+      "symbol": "RELIANCE.NS",
+      "shares": 14,
+      "price": 1389.4,
+      "total": 19451.600000000002
+    },
+    {
+      "date": "2026-03-05 16:07",
+      "action": "BUY",
+      "symbol": "SBIN.NS",
+      "shares": 13,
+      "price": 1169.5,
+      "total": 15203.5
+    }
+  ],
+  "starting_value": 100000,
+  "hold_mode": false
+}
